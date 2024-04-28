@@ -1158,6 +1158,13 @@
 .icon-instagram:before {
   content: "\f16d";
 }
+.icon-codechef:before {
+  content: "\f1a9"; /* Unicode value for the CodeChef icon in FontAwesome */
+}
+
+.icon-hackerrank:before {
+  content: "\f5f7"; /* Unicode value for the HackerRank icon in FontAwesome */
+}
 .icon-flickr:before {
   content: "\f16e";
 }
